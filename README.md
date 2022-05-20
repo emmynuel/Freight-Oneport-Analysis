@@ -1,4 +1,4 @@
-This analysis was prepared to answer some business insight questions. The management needs to be precise and as accurate as possible.
+This analysis was prepared to answer some business insight questions. The management needs the result to be as precise and as accurate as possible.
 Questions:
         1. What continent had the highest average freight rate ex Africa in 2020?
         2. What were the top 3 destinations with the highest freight rate for the last quarter of 2020? How does it compare to the second quarter of the same year?
